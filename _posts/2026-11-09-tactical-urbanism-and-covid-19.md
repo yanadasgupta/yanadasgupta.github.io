@@ -22,7 +22,7 @@ I was impressed by our own ability to function like a well-oiled machine, especi
 
 Another brilliant example of tactical urbanism is the plenty of good souls who delivered food packages to migrant workers during their tough journey back home. Food drives for the homeless which people have done in almost every city, is a commendable effort by the public to help their less fortunate brothers and sisters.
 
-**What is Tactical Urbanism?**
+## **What is Tactical Urbanism?**
 
 Tactical urbanism is a form of urbanism which is opposed to strategic urbanism and has its roots in people coming together to develop the community around them. These projects usually start at the grassroot levels as community building projects and spread to other cities or sometimes are adopted by municipalities.
 
@@ -30,19 +30,19 @@ It could be said that the idea of this style of urbanism originates from the cit
 
 In 1984, the English translation of *The Practice of Everyday Life* by Michel de Certeau used the term *Tactical Urbanism* for the very first time in this context. The movement formally emerged following a meeting of the *Next Generation of New Urbanist* in 2010.  Following the meeting, an open source project called *[Tactical Urbanism: Short TermAction | Long Term Change](http://issuu.com/streetplanscollaborative/docs/tactical_urbanism_vol.1)* was developed.
 
-**Global examples of tactical urbanism**
+## **Global examples of tactical urbanism**
 
-Milan was one of the worst hit cities in the world by COVID in the beginning of the pandemic. The city is a compact one, with a population of 1.4 million. Out of that, only 2% use bicycles and scooters to commute, and a whopping 1.37 million used to use the city’s public transport. In order to reopen the economy, a pandemic-resilient method had to be thought of to reduce crowds in public transport. If everyone used cars, the environmental effects would be drastic. The *Guardian* newspaper quoted the city’s councilor for mobility, Marco Granelli as saying, “We worked for years to reduce car use. [If everybody drives a car, there is no space for people](https://www.theguardian.com/world/2020/apr/21/milan-seeks-to-prevent-post-crisis-return-of-traffic-pollution?CMP=share_btn_tw). There is no space to move, there is no space for commercial activities outside the shops.” The *Strade Aperte* (Open Streets) scheme plans to create 35 kilometres of new cycle routes across the city, widen pavements for pedestrians and reduce parking spots to deter drivers from entering the city centre.
+Milan was one of the worst hit cities in the world by COVID in the beginning of the pandemic. The city is a compact one, with a population of 1.4 million. Out of that, only 2% use bicycles and scooters to commute, and a whopping 1.37 million used to use the city’s public transport. In order to reopen the economy, a pandemic-resilient method had to be thought of to reduce crowds in public transport. If everyone used cars, the environmental effects would be drastic. The *Guardian* newspaper quoted the city’s councilor for mobility, Marco Granelli as saying, “We worked for years to reduce car use. There is no space to move, there is no space for commercial activities outside the shops.” The *Strade Aperte* (Open Streets) scheme plans to create 35 kilometres of new cycle routes across the city, widen pavements for pedestrians and reduce parking spots to deter drivers from entering the city centre.
 
 Citizens in New York blocked off streets with traffic cones after the city rolled back its Open Streets initiatives. A P.E. teacher in Portland, Oregon found that the only safe way for children to play outside was to reclaim the streets, with the nearby playground taped off and sidewalks being too narrow. Sam Balto, the teacher, marked off boxes with chalk outside the children’s homes where they could safely enjoy the outdoors. These tactics to reclaim the streets might walk the balancing beam of legality but one has to understand that these are necessary to show everyone that an alternative is there. It can show disbelievers imagine of other possibilities and raise awareness.
 
-**When the cartels did what government could not**
+## **When the cartels did what government could not**
 
 Something interesting happened in the Latin American countries. The powerful cartels took the law into their own hands to impose lockdown in many countries as they deemed their governments’ guidelines to be too lenient. Even though they were doing better than their government, cartels had an ulterior motive of doing this. They did not want their own foot soldiers dying from COVID and didn’t want it to spread in their territory and cause harm to business. Not only that, they also saw it as an opportunity to win the loyalty of communities and wanted to show that apart from illegal trades they also care about the public interest.
 
 In Brazil, when President Jair Bolsonaro refused to impose a lockdown or any kind of restrictions to combat the coronavirus, gangs in Rio favelas drove with loudspeakers announcing compulsory curfew and threatened violence to defaulters. In Mexico, cartels donated boxes of food and amenities to people struggling due to the economic impact of the pandemic. Orders and guidelines were issued by word of mouth and also through WhatsApp messages and other social media.
 
-**Tactical urbanism in a Post-COVID world**
+## **Tactical urbanism in a Post-COVID world**
 
 Our cities may have reopened, but COVID-19 is not over yet, and will remain with us, probably for a some time to come. We need to make our public spaces pandemic resilient. That means, apart from people themselves practicing social distancing and wearing masks, we need to make significant changes in our environment to combat epidemic spread and promotes less crowded places to get fresh air and exercise. Citizens can take initiatives to tape off spaces for sitting in public plazas, by chair bombing and planting trees. Chair bombing is the act of using salvageable material to construct chairs in areas that lack places to sit. By planting trees in unused areas we can beautify the environment and use the trees as good street furniture.
 
