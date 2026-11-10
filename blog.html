@@ -1,3 +1,7 @@
+---
+layout: null
+permalink: /blog.html
+---
 <!doctype html>
 <html lang="en">
 <head>
@@ -37,17 +41,22 @@
       <p class="blog-intro-text">A place for ideas I'm exploring, questions I'm still thinking about, and things I've learned through research and experience.</p>
     </div>
     <div class="post-feed" aria-label="Blog posts">
+      {% assign published_posts = site.posts | where: 'published', true | sort: 'date' | reverse %}
+      {% for post in published_posts %}
       <article class="post-preview">
-        <div class="post-preview-meta"><time datetime="2026-11-09">November 9, 2026</time><span>Research &amp; reflections</span></div>
-        <a class="post-preview-media" href="blog/northern-saskatchewan-food-security.html" aria-label="Read the article about food security in northern Saskatchewan">
-          <img src="assets/images/default.jpg" alt="" loading="lazy" decoding="async">
+        <div class="post-preview-meta"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %-d, %Y' }}</time><span>{{ post.category | escape }}</span></div>
+        {% if post.image %}
+        <a class="post-preview-media" href="{{ post.url | relative_url }}" aria-label="Read: {{ post.title | escape }}">
+          <img src="{{ post.image | relative_url }}" alt="" loading="lazy" decoding="async">
         </a>
+        {% endif %}
         <div class="post-preview-content">
-          <h2><a href="blog/northern-saskatchewan-food-security.html">What a Grocery Bill Doesn&#x27;t Tell Us About Food Security in Northern Saskatchewan</a></h2>
-          <p>Researching food security during a summer internship showed me why northern Saskatchewan&#x27;s grocery prices tell only part of the story.</p>
-          <a class="post-read-more" href="blog/northern-saskatchewan-food-security.html" aria-label="Read: What a Grocery Bill Doesn&#x27;t Tell Us About Food Security in Northern Saskatchewan">Read the article <svg class="external-arrow" aria-hidden="true" viewBox="0 0 24 24"><path d="M7 17 17 7M7 7h10v10"/></svg></a>
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+          <p>{{ post.excerpt | strip_html | escape }}</p>
+          <a class="post-read-more" href="{{ post.url | relative_url }}" aria-label="Read: {{ post.title | escape }}">Read the article <svg class="external-arrow" aria-hidden="true" viewBox="0 0 24 24"><path d="M7 17 17 7M7 7h10v10"/></svg></a>
         </div>
       </article>
+      {% endfor %}
     </div>
   </section>
 </main>

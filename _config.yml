@@ -1,0 +1,18 @@
+url: "https://yanadasgupta.github.io"
+baseurl: ""
+timezone: America/Regina
+permalink: /blog/:title.html
+markdown: kramdown
+future: false
+unpublished: false
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      published: false
+exclude:
+  - AGENTS.md
+  - README.md
+  - README-BLOG.md

@@ -39,6 +39,7 @@
 .price-difference { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.55; }
 .price-source { font-size: 11px; color: var(--muted); margin: 21px 0 0; }
 .article-body { max-width: 750px; }
+.article-body img { display: block; max-width: 100%; height: auto; }
 .article-body p { margin: 0 0 1.4em; font-size: 17px; line-height: 1.85; }
 .article-body h2 { font-size: clamp(27px, 3.5vw, 38px); line-height: 1.25; margin: 2.1em 0 .65em; scroll-margin-top: 32px; }
 .article-body a { color: var(--forest); text-decoration-color: var(--sage-deep); overflow-wrap: anywhere; }

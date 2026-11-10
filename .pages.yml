@@ -1,0 +1,74 @@
+media:
+  - name: blog_images
+    label: Blog images
+    input: assets/images/blog
+    output: /assets/images/blog
+    categories: [image]
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{title}.md"
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Publication date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: category
+        label: Category
+        type: string
+      - name: excerpt
+        label: Excerpt
+        type: text
+      - name: image
+        label: Featured image
+        type: image
+        options:
+          media: blog_images
+      - name: image_alt
+        label: Image alt text
+        type: string
+      - name: published
+        label: Published
+        type: boolean
+        default: false
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          format: markdown
+          media: blog_images
+      - name: permalink
+        type: string
+        hidden: true
+      - name: comparison
+        type: string
+        hidden: true
+      - name: image_credit
+        label: Image credit
+        type: string
+      - name: author
+        type: string
+        hidden: true
+      - name: article_category
+        type: string
+        hidden: true
+      - name: deck
+        type: text
+        hidden: true
+      - name: read_time
+        type: string
+        hidden: true
+      - name: date_modified
+        type: date
+        hidden: true
+        options:
+          format: yyyy-MM-dd
