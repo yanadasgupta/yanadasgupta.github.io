@@ -8,7 +8,8 @@ excerpt: March 24, 2020. Indian Prime Minister Narendra Modi announced a
   gates would remain and if we would continue to get our supply of bottled
   water. But then I was a typical urban teen who lived in one of the many
   high-rise apartment complexes in Delhi NCR.
-published: false
+image: /assets/images/blog/1_8nbvuwzktio-fyf0b_ojca.jpeg
+published: true
 date_modified: 2026-11-09
 ---
 March 24, 2020. Indian Prime Minister Narendra Modi announced a three-week nation-wide lockdown with just a four-hour notice. The first thoughts that struck me were if the security guards manning our apartment gates would remain and if we would continue to get our supply of bottled water. But then I was a typical urban teen who lived in one of the many high-rise apartment complexes in Delhi NCR.
