@@ -77,6 +77,7 @@ h3 { font-size: 23px; font-weight: 500; letter-spacing: -.02em; margin-bottom: 1
 .work-links a { color: #f1ecda; font-size: 16px; line-height: 1.6; text-decoration: underline; text-decoration-color: #b9cbb9; text-underline-offset: 4px; }
 .work-links a:hover { color: #fff; text-decoration-color: #fff; }
 .external-arrow { width: 16px; height: 16px; margin-left: 4px; vertical-align: -3px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.external-arrow.arrow-leading { margin: 0 6px 0 0; vertical-align: -3px; }
 .skills { display: block; background: var(--paper); border-radius: 24px; padding-inline: clamp(24px, 5vw, 64px); }
 .skills > .eyebrow { margin-bottom: 18px; }
 .skills-title { max-width: 850px; margin: 0 auto 48px; text-align: center; font-family: var(--serif); font-size: clamp(27px, 3.2vw, 42px); line-height: 1.28; letter-spacing: -.025em; }

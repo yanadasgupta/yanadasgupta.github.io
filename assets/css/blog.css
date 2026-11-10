@@ -32,7 +32,10 @@
 .price-pair > div { display: flex; flex-direction: column; gap: 3px; }
 .price-pair > div + div { border-left: 1px solid var(--line); padding-left: 22px; }
 .price-pair span { color: var(--muted); font-size: 13px; }
-.price-pair strong { font-family: var(--serif); font-weight: 400; font-size: clamp(27px, 4vw, 45px); letter-spacing: -.04em; line-height: 1.15; }
+.price-pair strong { font-family: var(--sans); font-weight: 700; font-size: clamp(27px, 4vw, 45px); font-variant-numeric: lining-nums tabular-nums; font-feature-settings: "lnum" 1, "tnum" 1; letter-spacing: -.025em; line-height: 1.15; }
+.price-takeaway { margin-top: 22px; padding-top: 17px; border-top: 1px solid var(--line); }
+.price-ratio { margin: 0 0 4px; color: var(--forest); font-size: clamp(18px, 2.4vw, 22px); font-weight: 700; line-height: 1.35; }
+.price-difference { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.55; }
 .price-source { font-size: 11px; color: var(--muted); margin: 21px 0 0; }
 .article-body { max-width: 750px; }
 .article-body p { margin: 0 0 1.4em; font-size: 17px; line-height: 1.85; }
@@ -52,5 +55,6 @@
   .article-body p { font-size: 16px; line-height: 1.8; }
   .price-pair { grid-template-columns: 1fr; gap: 22px; }
   .price-pair > div + div { border-left: 0; border-top: 1px solid var(--line); padding: 19px 0 0; }
+  .price-pair strong { font-size: clamp(29px, 8vw, 39px); }
   .article-meta { gap: 7px; }
 }
