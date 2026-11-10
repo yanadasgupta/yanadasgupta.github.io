@@ -7,7 +7,7 @@ excerpt: Science has a communication problem. From climate change to public
   Look Up* reminds us why scientists need to rethink how they talk to the rest
   of the world.
 image: /assets/images/blog/aaaabf2npnhzsrslwu3n0khyscbphnrltqu86blxuxssleamrjlnf6g0cogo2-s8yuywd64vhpix5kngmtkmgf6a002tgi6eilpe329n.webp
-published: false
+published: true
 image_credit: Don't Look Up - Netflix
 date_modified: 2026-11-09
 ---
