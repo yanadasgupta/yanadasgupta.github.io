@@ -25,6 +25,7 @@
 .article-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 11px; color: var(--muted); font-size: 13px; }
 .article-featured-image { margin: 18px 0 35px; background: var(--surface); overflow: hidden; border-radius: 4px; }
 .article-featured-image img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.article-photo-credit { padding: 6px 0 0; color: var(--muted); font-family: var(--sans); font-size: 12px; line-height: 1.4; }
 .article-deck { font-size: clamp(18px, 2.4vw, 22px); line-height: 1.55; color: var(--muted); max-width: 690px; margin: 24px 0 38px; }
 .price-comparison { background: var(--surface); border-top: 4px solid var(--forest); border-bottom: 1px solid var(--line); padding: clamp(18px, 4vw, 35px); margin: 28px 0 45px; }
 .price-label { text-transform: uppercase; letter-spacing: .09em; font-size: 11px; color: var(--forest); font-weight: 700; margin: 0 0 17px; }
