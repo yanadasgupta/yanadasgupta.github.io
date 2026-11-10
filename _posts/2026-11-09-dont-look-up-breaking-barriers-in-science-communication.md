@@ -30,3 +30,5 @@ Furthermore, scientists and experts must be willing to engage in open, transpare
 At the same time, policymakers must recognize the importance of evidence-based decision-making and prioritize scientific expertise in policy formulation. By fostering collaboration between scientists, policymakers, and the public, we can navigate complex issues like climate change and public health crises more effectively.
 
 Effective communication is the linchpin of scientific progress and public understanding. As we confront pressing global challenges, from climate change to pandemics, scientists and communicators must embrace a new paradigm of engagement. By breaking down barriers, fostering dialogue, and prioritizing clarity, we can ensure that science remains accessible and relevant to all.
+
+Originally published on- [https://parallaxhaven.wordpress.com/2022/01/10/dont-look-up-breaking-barriers-in-science-communication/](https://parallaxhaven.wordpress.com/2022/01/10/dont-look-up-breaking-barriers-in-science-communication/)
