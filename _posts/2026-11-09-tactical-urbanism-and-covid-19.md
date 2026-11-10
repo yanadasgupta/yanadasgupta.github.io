@@ -1,6 +1,6 @@
 ---
 title: Tactical Urbanism and COVID-19
-date: 2026-11-09
+date: 2020-08-13
 category: COVID
 excerpt: March 24, 2020. Indian Prime Minister Narendra Modi announced a
   three-week nation-wide lockdown with just a four-hour notice. The first
